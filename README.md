@@ -26,7 +26,7 @@ Istiyak Hasan Maruf (22234103130) < br / >
 This pharmacy data analytics dashboard project aims to streamline the management of pharmaceutical
 data by providing a user-friendly interface for real-time insights. It will help track inventory levels, sales
 trends, and patient prescriptions efficiently, enabling data-driven decision-making. By visualizing key
-metrics, this dashboard enhances operational efficiency, reduces waste, and improves patient care,
+metrics, this dashboard enhances operational efficiency, reduces waste, and improves patient care
 ultimately driving better outcomes for both pharmacy staff and customers.
 
            
